@@ -3,6 +3,8 @@
 Lint PDF documents from Emacs using PDFBox Preflight
 (https://pdfbox.apache.org/download.cgi)
 
+![pdf-linter in action](https://raw.githubusercontent.com/danielmartin/pdf-linter/master/Screenshot.png)
+
 This is a work in progress.
 
 ## Install
